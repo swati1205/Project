@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project>
+  <actions/>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <scm class="hudson.scm.NullSCM"/>
+  <canRoam>true</canRoam>
+  <disabled>false</disabled>
+  <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
+  <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+  <triggers/>
+  <concurrentBuild>false</concurrentBuild>
+  <builders/>
+  <publishers>
+    <org.jenkins.SonarProject.JenkinsSonarPrj plugin="SonarProject@1.0-SNAPSHOT">
+      <goalType>Sonar Url2</goalType>
+      <SonarUrl>http://10.219.193.100:9000/api/projects</SonarUrl>
+    </org.jenkins.SonarProject.JenkinsSonarPrj>
+  </publishers>
+  <buildWrappers/>
+</project>

@@ -1,0 +1,5 @@
+<?jelly escape-by-default='true'?>
+
+<div>
+  This plugin is used to create the branch in repository for the given project in the GIT.
+</div> 

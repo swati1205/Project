@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project>
+  <actions/>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <scm class="hudson.scm.NullSCM"/>
+  <canRoam>true</canRoam>
+  <disabled>false</disabled>
+  <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
+  <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+  <triggers/>
+  <concurrentBuild>false</concurrentBuild>
+  <builders>
+    <org.jenkins.GitCreateBranchPlugin.BranchCreate plugin="create-Branch-git@1.0">
+      <repoPath>https://api.github.com/repos/daksha25/jpetstore/</repoPath>
+      <branchName>Branch@#fdhjkghj</branchName>
+      <authFileLocation>D:\Documents\Plugin_and Utility\Jenkins_Plugin\Git\abcd.props</authFileLocation>
+      <commitMsg>Creating a new branch in github</commitMsg>
+    </org.jenkins.GitCreateBranchPlugin.BranchCreate>
+  </builders>
+  <publishers/>
+  <buildWrappers/>
+</project>

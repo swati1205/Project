@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Group-Id: org.jenkins
+Short-Name: create-Branch-git
+Long-Name: Cloudset GIT Create Branch
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Cloudset GIT Create B
+ ranch+Plugin
+Plugin-Version: 1.0
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Developers: 
+Support-Dynamic-Loading: true
+Libraries: D:\EclipseK\Project\GitCreateBranchPlugin\src\main\resource
+ s,D:\EclipseK\Project\GitCreateBranchPlugin\target\classes,D:\.m2\rep
+ ository\joda-time\joda-time\1.5.2\joda-time-1.5.2.jar,D:\.m2\reposito
+ ry\commons-io\commons-io\1.4\commons-io-1.4.jar,D:\.m2\repository\org
+ \codehaus\groovy\groovy\2.4.7\groovy-2.4.7.jar,D:\.m2\repository\org\
+ codehaus\httpcache4j\resolvers\resolvers-net-urlconnection\1.6\resolv
+ ers-net-urlconnection-1.6.jar,D:\.m2\repository\com\mashape\unirest\u
+ nirest-java\1.4.7\unirest-java-1.4.7.jar,D:\.m2\repository\org\apache
+ \httpcomponents\httpasyncclient\4.0.2\httpasyncclient-4.0.2.jar,D:\.m
+ 2\repository\org\codehaus\httpcache4j\httpcache4j-api\1.6\httpcache4j
+ -api-1.6.jar,D:\.m2\repository\org\apache\httpcomponents\httpcore\4.4
+ \httpcore-4.4.jar,D:\.m2\repository\org\apache\httpcomponents\httpcli
+ ent\4.4\httpclient-4.4.jar,D:\.m2\repository\commons-lang\commons-lan
+ g\2.4\commons-lang-2.4.jar,D:\.m2\repository\org\json\json\20160212\j
+ son-20160212.jar,D:\.m2\repository\org\apache\httpcomponents\httpcore
+ -nio\4.3.2\httpcore-nio-4.3.2.jar,D:\.m2\repository\commons-codec\com
+ mons-codec\1.9\commons-codec-1.9.jar,D:\.m2\repository\org\apache\htt
+ pcomponents\httpmime\4.3.6\httpmime-4.3.6.jar,D:\.m2\repository\commo
+ ns-httpclient\commons-httpclient\3.1\commons-httpclient-3.1.jar,D:\.m
+ 2\repository\org\codehaus\groovy\groovy-json\2.4.7\groovy-json-2.4.7.
+ jar,D:\.m2\repository\javax\activation\activation\1.1\activation-1.1.
+ jar,D:\.m2\repository\com\squareup\okio\okio\1.6.0\okio-1.6.0.jar,D:\
+ .m2\repository\com\squareup\okhttp\okhttp\2.7.5\okhttp-2.7.5.jar
+Resource-Path: D:\EclipseK\Project\GitCreateBranchPlugin\src\main\webapp
+

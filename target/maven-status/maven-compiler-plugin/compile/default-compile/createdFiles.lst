@@ -1,0 +1,5 @@
+org\jenkins\GitCreateBranchPlugin\BranchCreate.class
+org\jenkins\GitCreateBranchPlugin\BranchCreate.stapler
+org\jenkins\GitCreateBranchPlugin\CommonUtilsGit.class
+META-INF\annotations\hudson.Extension
+org\jenkins\GitCreateBranchPlugin\BranchCreate$DescriptorImpl.class

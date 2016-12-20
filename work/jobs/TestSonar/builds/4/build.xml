@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causes>
+        <hudson.model.Cause_-UserIdCause/>
+      </causes>
+    </hudson.model.CauseAction>
+    <org.jenkins.SonarProject.ViewIssuesAction plugin="SonarProject@1.0-SNAPSHOT">
+      <build class="build" reference="../../.."/>
+      <list>
+        <string>C-sharp-Project</string>
+        <string>Factnew</string>
+        <string>Hello</string>
+        <string>Java :: UT + IT Jacoco :: SonarQube Scanner</string>
+        <string>Simple Csharp project</string>
+        <string>T_PAYMENT_SER</string>
+        <string>T_PAYMENT_SERSonarResharper</string>
+        <string>Test_Resharper</string>
+        <string>code Coverage :: Corbeturacodecoverage</string>
+        <string>code Coverage :: SonarQube Scanner</string>
+        <string>jpetstore code analysis</string>
+      </list>
+    </org.jenkins.SonarProject.ViewIssuesAction>
+  </actions>
+  <queueId>2</queueId>
+  <timestamp>1474873886479</timestamp>
+  <startTime>1474873886483</startTime>
+  <result>SUCCESS</result>
+  <duration>448</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>D:\EclipseK\Project\SonarProject\work\jobs\TestSonar\workspace</workspace>
+  <hudsonVersion>1.625.3</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

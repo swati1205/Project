@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Group-Id: org.jenkins
+Short-Name: SonarProject
+Long-Name: SonarProject
+Url: https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-10/03/2016 11:19-514359)
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Developers: 
+Libraries: D:\EclipseK\Project\SonarProject\src\main\resources,D:\Ecli
+ pseK\Project\SonarProject\target\classes,D:\.m2\repository\com\google
+ code\json-simple\json-simple\1.1\json-simple-1.1.jar
+Resource-Path: D:\EclipseK\Project\SonarProject\src\main\webapp
+
